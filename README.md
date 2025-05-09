@@ -6,4 +6,4 @@ I built a binary image classifier using **MobileNetV2**, a pre-trained convoluti
 To run the code:
 1. Download the `.ipynb` notebook.
 2. Upload your `kaggle.json` API key (available in your Kaggle account settings).
-3. Upload the `test_images.zip` file (used for testing the model).
+3. Upload the `test.zip` file (used for testing the model).
